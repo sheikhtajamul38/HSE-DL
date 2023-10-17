@@ -1,4 +1,4 @@
-# Welcome to the Deep Learning Course Repository by [HSE]!
+# Welcome to the Deep Learning Course Repository by [HSE](https://www.hse.ru/en/)!
 
 This repository contains a collection of projects and Python notebooks covering various topics in deep learning. Whether you're a student or a deep learning enthusiast, you'll find a wealth of resources here to explore.
 
