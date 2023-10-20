@@ -20,10 +20,10 @@ This repository is a compilation of projects and Python notebooks that cover a r
 
 Explore the following projects within this repository:
 
-- [Project 1: BackProp & SGD]
+- Project 1: BackProp & SGD
   - [SGD](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_adaptive_sgd.ipynb)
   - [BackProp](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_backprop.ipynb)
-- [Project 2: Pytorch]
+- Project 2: Pytorch
   - [Part 1](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_seminar_pytorch.ipynb)
   - [Part 2](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_homework.ipynb )
 - [Project 3: CNN Implementation](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_seminar3_pytorch.ipynb)
