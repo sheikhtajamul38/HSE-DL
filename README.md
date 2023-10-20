@@ -14,7 +14,6 @@ This repository contains a collection of projects and Python notebooks covering 
 
 This repository is a compilation of projects and Python notebooks that cover a range of deep learning topics. Each project focuses on a specific aspect of deep learning, such as convolutional neural networks (CNNs), stochastic gradient descent (SGD), PyTorch, natural language processing (NLP), and more.
 
-## Projects
 
 ## Projects
 
