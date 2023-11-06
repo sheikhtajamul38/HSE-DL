@@ -27,7 +27,7 @@ Explore the following projects within this repository:
   - [Part 2](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_homework.ipynb )
 - [Project 3: CNN Implementation](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_seminar3_pytorch.ipynb)
 - [Project 4: Cats vs Dogs classification based on a pre-trained architecture](https://drive.google.com/file/d/1taRs4lTcgWB0votW2F5V9VHdwtvkgprj/view?usp=sharing)
-- [Project 4: Interpretability](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Week5_practice.ipynb)
+- [Project 5: Interpretability](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Week5_practice.ipynb)
 - Project 6: NLP
   - [Prohibited Comment Classification](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Week6_part1_common.ipynb)
   - [NLP with Deep Learning](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Week6_part2_pytorch.ipynb)
