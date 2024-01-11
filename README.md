@@ -19,18 +19,26 @@ This repository is a compilation of projects and Python notebooks that cover a r
 
 Explore the following projects within this repository:
 
-- Project 1: BackProp & SGD
-  - [SGD](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_adaptive_sgd.ipynb)
-  - [BackProp](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_backprop.ipynb)
-- Project 2: Pytorch
-  - [Part 1](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_seminar_pytorch.ipynb)
-  - [Part 2](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_homework.ipynb )
-- [Project 3: CNN Implementation](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Tajamul_seminar3_pytorch.ipynb)
-- [Project 4: Cats vs Dogs classification based on a pre-trained architecture](https://drive.google.com/file/d/1taRs4lTcgWB0votW2F5V9VHdwtvkgprj/view?usp=sharing)
-- [Project 5: Interpretability](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Week5_practice.ipynb)
-- Project 6: NLP
-  - [Prohibited Comment Classification](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Week6_part1_common.ipynb)
-  - [NLP with Deep Learning](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Week6_part2_pytorch.ipynb)
+- Week 1: BackProp & SGD
+  - [SGD](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Week1/Tajamul_adaptive_sgd.ipynb)
+  - [BackProp](https://github.com/sheikhtajamul38/HSE-DL/blob/main/Week1/Tajamul_backprop.ipynb)
+- Week 2: Pytorch
+  - [Part 1](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week2/Tajamul_homework.ipynb)
+  - [Part 2](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week2/Tajamul_seminar_pytorch.ipynb)
+- [Week 3: CNN Implementation](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week3/Tajamul_seminar_pytorch_.ipynb)
+- [Week 4: Cats vs Dogs classification based on a pre-trained architecture](https://drive.google.com/file/d/1taRs4lTcgWB0votW2F5V9VHdwtvkgprj/view?usp=sharing)
+- [Week 5: Interpretability](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week5/Week5_practice.ipynb)
+- Week 6: NLP
+  - [Prohibited Comment Classification](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week6/Week6_part1_common.ipynb)
+  - [NLP with Deep Learning](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week6/Week6_part2_pytorch.ipynb)
+- [Week 7: Attention](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week7/modified_homework.ipynb)
+- [Week 8: LLM](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week8/Tajamul_practice.ipynb)
+- Week 9: Speech
+  - [Voice Recognition](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week9/week09practice.ipynb)
+  - [Text to Speech](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week9/seminar_tts.ipynb)
+- Week 10: RL
+  - [open AI](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week10/intro_week11.ipynb)
+  - [REINFORCE](https://github.com/sheikhtajamul38/HSE-DL/blob/main/week10/reinforce_pytorch.ipynb)
     
 
 
